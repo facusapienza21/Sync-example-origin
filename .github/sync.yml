@@ -1,0 +1,6 @@
+group:
+  repos: |
+    facusapienza21/Sync-example-destination
+  files: 
+    - source: README.md
+      dest: README.md
